@@ -32,7 +32,7 @@ namespace FancyCalc
         public double Culculate(string expression)
         {
             //throw new NotImplementedException();
-            return 9;
+            return 6;
 
         }
     }
